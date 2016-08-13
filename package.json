@@ -1,0 +1,23 @@
+{
+  "name": "switchpoint",
+  "version": "0.0.1",
+  "description": "A simple HTTP server framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maclover7/switchpoint.git"
+  },
+  "keywords": [
+    "http",
+    "web"
+  ],
+  "author": "Jon Moss <me@jonathanmoss.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maclover7/switchpoint/issues"
+  },
+  "homepage": "https://github.com/maclover7/switchpoint#readme"
+}
